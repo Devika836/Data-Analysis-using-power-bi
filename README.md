@@ -6,12 +6,12 @@ Sales Analysis and Visualization using power bi.pbix,
 Product_sales Analysis.pbix
 
 ### Features
-.Interactive filters and slicers,
-.Changes in increase/decrease of the sales
+Interactive filters and slicers,
+Changes in increase/decrease of the sales
 
 #Tools used:
-.Power Bi,
-.Excel 
+Power Bi,
+Excel 
 
 # To view the project
 Download the .pbix file and open it in Power BI Desktop
