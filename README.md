@@ -3,7 +3,6 @@ This project showcases a sales Dashboard built using Microsoft Power BI. It incl
 # Files included :
 Sales Analysis and Visualization using power bi.pbix 
 Product_sales Analysis.pbix
-Data_Analyzing using Ai
 
 ### Features
 .Interactive filters and slicers
