@@ -1,4 +1,5 @@
-# Data-Analysis-using-power-bi - This project showcases a sales Dashboard built using Microsoft Power BI. It includes key performance metrics like revenus, profit, geography etc. 
+# Data-Analysis-using-power-bi 
+This project showcases a sales Dashboard built using Microsoft Power BI. It includes key performance metrics like revenus, profit, geography etc. 
 # Files included :
 Sales Analysis and Visualization using power bi.pbix 
 Product_sales Analysis.pbix
