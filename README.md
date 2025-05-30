@@ -4,7 +4,8 @@ It includes key performance metrics like revenus, profit, geography etc
 
 ## Files included :
 Sales Analysis and Visualization using power bi.pbix,
-Product_sales Analysis.pbix
+Product_sales Analysis.pbix,
+Excel data sets - Sales analysis data.xlsx
 
 ### Features
 Interactive filters and slicers,
