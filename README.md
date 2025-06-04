@@ -1,8 +1,33 @@
-# Data-Analysis-using-power-bi 
-This project showcases a sales Dashboard built using Microsoft Power BI,
-It includes key performance metrics like revenus, profit, geography etc 
+###Data-Analysis-using-power-bi 
+Project Description:
 
-## Files included :
+This project focuses on building an interactive data visualization dashboard using Power BI to analyze and present insights into sales performance data. The primary objective is to transform raw sales data into an insightful, user-friendly dashboard that enables business stakeholders to make data-driven decisions.
+
+Using Power BI’s powerful visualization tools, the project includes:
+
+Data cleaning and modeling using Power Query and DAX.
+
+Creation of dynamic charts, maps, KPIs, and drill-down reports.
+
+Designing an interactive dashboard with filters such as date slicers, regions, product categories, and sales representatives.
+
+Data Sources:
+
+Excel, CSV, or SQL Server database (depending on availability)
+
+Optional: Integration with online data (e.g., APIs or government open datasets)
+
+
+Tools Used:
+
+Power BI Desktop
+
+DAX (Data Analysis Expressions)
+
+Power Query (for ETL)
+
+
+## Files included in repo:
 Sales Analysis and Visualization using power bi.pbix,
 Product_sales Analysis.pbix,
 Excel data sets - Sales analysis data.xlsx,
