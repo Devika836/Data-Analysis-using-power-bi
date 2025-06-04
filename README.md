@@ -42,6 +42,13 @@ Line and stacked column chart = count of crm cd3 and crm cd4 by area name
 Bar chart = count of vict age by count of vict sex and weapons used
 
 
+###The repo includes the files:
+
+crime data analysis 2022.csv
+sales analysis data.csv
+product sales analysis
+
+
 ## To view the project
 Download the .pbix file and open it in Power BI Desktop
 [Download Power BI Desktop : (http://powerbi.microsoft.com/en-us/desktop/)]
