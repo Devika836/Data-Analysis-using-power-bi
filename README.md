@@ -32,6 +32,8 @@ Sales Analysis and Visualization using power bi.pbix,
 Product_sales Analysis.pbix,
 Excel data sets - Sales analysis data.xlsx,
 Crime data analysis 2020
+HR data.xlsx
+HR-Data-Analysis
 
 
 
@@ -67,11 +69,23 @@ Line and stacked column chart = count of crm cd3 and crm cd4 by area name
 Bar chart = count of vict age by count of vict sex and weapons used
 
 
-###The repo includes the files:
+HR-Data analysis:
+It includes the employee id , date of joining, dept-id, salary, net salary, bonus
+The visuals repreasents the sum of net salary, count of bonus, first name and their city, sum of net salary by dept id etc
+The visuals includes charts, tables, graphs, geographical map
 
-crime data analysis 2022.csv
-sales analysis data.csv
-product sales analysis
+##Visualizations:
+The dashboards created HR analysis using different visuals
+cards = sum of net salary, count of bonus
+slicer = first name, doj, dept id
+Tables = first name, department name, dept id, emp id
+pie chart = count of salary by dept id
+donut chart = sum of net salary by dept id
+
+
+
+
+
 
 
 ## To view the project
