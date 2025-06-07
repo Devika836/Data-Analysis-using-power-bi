@@ -34,6 +34,9 @@ Excel data sets - Sales analysis data.xlsx,
 Crime data analysis 2020
 HR data.xlsx
 HR-Data-Analysis
+summary_of_roads.csv
+Road-summary-karnataka.pbix
+
 
 
 
@@ -81,6 +84,15 @@ slicer = first name, doj, dept id
 Tables = first name, department name, dept id, emp id
 pie chart = count of salary by dept id
 donut chart = sum of net salary by dept id
+
+###Road-summary of karnataka analysis
+It includes districts of karntaka its length in kms by state highways and major districts roads and its total km
+
+##visualizations
+geographical map - it shows the districts in karnataka and major districts road km
+Bar chart - count of state highway km by each districts
+pie chart - count of state highway km by each districts 
+Tables - Tables include sl no, name of the districts and major districts roads km
 
 
 
